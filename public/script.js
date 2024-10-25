@@ -1,7 +1,9 @@
 /* 
+---
 tutorial workthrough from www.freecodecamp.org
 tutorial title: "Learn JavaScript by Building a Role Playing Game"
 JS here is in response to a series of coding challenges in the tutorial
+---
 */
 
 let xp = 0;
