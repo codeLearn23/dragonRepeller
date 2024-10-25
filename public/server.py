@@ -1,4 +1,4 @@
-# below code is from Boot Dev for static site generator project
+# below code is borrowed from www.boot.dev -- see project "Build a Static Site Generator"
 
 import os
 import argparse
